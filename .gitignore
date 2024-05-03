@@ -1,0 +1,16 @@
+# ----------------
+# composer
+
+composer.phar
+/vendor/
+
+# ----------------
+# workareas
+
+/.vscode
+
+# ----------------
+# manualskip
+
+*.gitskip
+*.gitskip.*
